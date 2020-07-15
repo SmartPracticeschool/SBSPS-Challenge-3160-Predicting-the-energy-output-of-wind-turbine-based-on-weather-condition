@@ -13,7 +13,7 @@ Kaggle: https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset<br>
 Weather data: https://www.worldweatheronline.com
 
 ## Video
-https://drive.google.com/drive/folders/1v-OMN_HBvq9_DeVUnDUsHW5SjtZD94LJ?usp=sharing
+<a href = "https://drive.google.com/drive/folders/1v-OMN_HBvq9_DeVUnDUsHW5SjtZD94LJ?usp=sharing">Click here</a>
 
 ## Node-Red Flow
 link : 
